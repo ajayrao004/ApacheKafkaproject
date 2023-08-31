@@ -28,6 +28,6 @@ $ bin/kafka-server-start.sh config/server.properties
 $ bin/kafka-console-consumer.sh --topic Ajay_message --from-beginning --bootstrap-server localhost:9090
 
 4. I used POSTMAN to send message through API:
-   ![image]()
+   ![image](https://github.com/ajayrao004/ApacheKafkaproject/assets/99999518/76b99f5b-ebd5-4453-bad5-03bf81ced4a2)
 5. On Consumer terminal you will see the message:
-   ![image]()
+   ![image](https://github.com/ajayrao004/ApacheKafkaproject/assets/99999518/3e8cd132-5662-44dd-b5e5-8062936bfb17)
